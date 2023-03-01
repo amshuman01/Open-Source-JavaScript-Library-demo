@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-var uniqueRandomArray = require('unique-random-array');
-var starWarsNames = require('./starwars-names.json');
-
-module.exports = {
-  all: starWarsNames,
-  random: uniqueRandomArray(starWarsNames)
-};
-
-
-=======
 import uniqueRandomArray from 'unique-random-array';
 import starWarsNames from './starwars-names.json';
 
@@ -30,4 +19,3 @@ function random(number) {
     return randomItems;
   }
 }
->>>>>>> updated-merge
