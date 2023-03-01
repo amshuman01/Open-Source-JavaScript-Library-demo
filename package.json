@@ -1,5 +1,5 @@
 {
-  "name": "@ams/test-data",
+  "name": "@ams28/test-data",
   "version": "1.0.0",
   "description": "Random data for testing",
   "main": "index.js",
